@@ -30,4 +30,4 @@ using Excel and Power BI.
 - Germany leads in profit with $959K
 - Peak sales were in May and June ($2.63M - $2.68M)
 - Sales dropped significantly in summer then recovered in Q4
-- ![Global Sales Performance Dashboard](GlobalSales.png)
+
